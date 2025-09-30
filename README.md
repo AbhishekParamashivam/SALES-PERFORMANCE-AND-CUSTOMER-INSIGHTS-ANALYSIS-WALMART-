@@ -50,5 +50,8 @@ This project focuses on analyzing Walmart sales data to uncover insights into cu
 - **Jupyter Notebook** for analysis and visualization  
 
 ---
-
+## 🚀 How to Run
+1. Navigate to the project folder:  
+   ```bash
+   cd SALES-PERFORMANCE-AND-CUSTOMER-INSIGHTS-ANALYSIS-WALMART
 
