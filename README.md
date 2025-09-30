@@ -55,5 +55,13 @@ This project focuses on analyzing Walmart sales data to uncover insights into cu
    ```bash
    cd SALES-PERFORMANCE-AND-CUSTOMER-INSIGHTS-ANALYSIS-WALMART
 
-## Run the project.ipynb notebook to explore the analysis.
+2. Run the project.ipynb notebook to explore the analysis.
+
+---
+## 📌 Future Enhancements
+
+- Build an interactive dashboard using Power BI / Tableau / Plotly Dash.
+- Apply predictive analytics (e.g., sales forecasting with ML models).
+- Incorporate customer segmentation for personalized recommendations.
+
 
