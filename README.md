@@ -64,4 +64,8 @@ This project focuses on analyzing Walmart sales data to uncover insights into cu
 - Apply predictive analytics (e.g., sales forecasting with ML models).
 - Incorporate customer segmentation for personalized recommendations.
 
+---
+## 📜 License
+
+- This project is for educational purposes only.
 
