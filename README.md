@@ -6,4 +6,29 @@ This project focuses on analyzing Walmart sales data to uncover insights into cu
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**📂 Dataset**
+
+Source: Walmart Sales Dataset (cleaned version included in this repository)
+
+Records: ~9,900 transactions
+
+Features:
+
+Invoice ID
+
+Branch & City
+
+Product Category
+
+Unit Price & Quantity
+
+Date & Time of Purchase
+
+Payment Method
+
+Customer Rating
+
+Profit Margin
+
+Total Sales
 
