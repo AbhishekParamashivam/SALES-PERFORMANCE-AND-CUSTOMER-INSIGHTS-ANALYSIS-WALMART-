@@ -59,13 +59,11 @@ This project focuses on analyzing Walmart sales data to uncover insights into cu
 
 ---
 ## 📌 Future Enhancements
-
 - Build an interactive dashboard using Power BI / Tableau / Plotly Dash.
 - Apply predictive analytics (e.g., sales forecasting with ML models).
 - Incorporate customer segmentation for personalized recommendations.
 
 ---
 ## 📜 License
-
 - This project is for educational purposes only.
 
