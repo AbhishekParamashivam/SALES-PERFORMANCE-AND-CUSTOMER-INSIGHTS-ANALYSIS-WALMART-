@@ -55,3 +55,5 @@ This project focuses on analyzing Walmart sales data to uncover insights into cu
    ```bash
    cd SALES-PERFORMANCE-AND-CUSTOMER-INSIGHTS-ANALYSIS-WALMART
 
+## Run the project.ipynb notebook to explore the analysis.
+
